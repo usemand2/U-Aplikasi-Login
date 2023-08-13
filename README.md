@@ -18,4 +18,5 @@ sepertinya jika main branch tidak ada perubahan, maka jika bahkan line yang bera
 pada saat resolve bukan hanya memilih yang dipertahankan tapi juga bisa menambahkan!!!  
 
 
-di main akan dilakukan di line 21
+di main akan dilakukan di line 21/
+
