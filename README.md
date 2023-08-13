@@ -9,4 +9,6 @@ Alur Fitur Login:
 > ***Dibuat untuk tes merge***
 
 > + ***WOW BERHASIL MELAKUKAN MERGE :)***\
-> + **Dengan ini tingkat masterisasi github nya sudah berguna dan bukan coba coba doang ;)**
+> + **THIS IS SPARTA!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! ;)**
+
+line ini dibuat untuk tes apakah terbawa atau tidak
