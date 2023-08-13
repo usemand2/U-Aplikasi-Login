@@ -7,3 +7,6 @@ Alur Fitur Login:
 3. Menampilkan halaman beranda.
 
 > ***Dibuat untuk tes merge***
+
+> + ***WOW BERHASIL MELAKUKAN MERGE :)***\
+> + **Dengan ini tingkat masterisasi github nya sudah berguna dan bukan coba coba doang ;)**
