@@ -16,3 +16,5 @@ sepertinya jika main branch tidak ada perubahan, maka jika bahkan line yang bera
 **di line 16 dan  17 bagian branch ini akan berbeda juga**  
 **Sehingga dikarenakan kedua branch berbeda diline yang sama dan juga terdapat commit dikeduanya maka seharusnya ada masalah**  
 pada saat resolve bukan hanya memilih yang dipertahankan tapi juga bisa menambahkan!!!  
+
+di branch akan dirubah pada line 20 untuk tes nya
