@@ -1,1 +1,4 @@
-12345
+Dicoding exercise 1
+commit1
+commit2(pelengkap)
+commit3

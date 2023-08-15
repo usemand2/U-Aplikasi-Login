@@ -1,6 +1,6 @@
 # Aplikasi-Login
-Sebuah aplikasi dengan fitur login
-
+##Sebuah aplikasi dengan fitur login
+###ini latihan saja :)
 Alur Fitur Login:  
 1. Memasukkan email dan password  
 2. Memvalidasi masukan.  
@@ -18,10 +18,12 @@ sepertinya jika main branch tidak ada perubahan, maka jika bahkan line yang bera
 pada saat resolve bukan hanya memilih yang dipertahankan tapi juga bisa menambahkan!!!  
 
 kesimpulan dari test adalah meskipun branch dan main tidak diline yang sama tetapi tetap bisa conflict\
-\
+
 ini dimungkinkan karena main berubah, sehingga segala perubahan yang ada di main akan memicu conflict\
-\
+
 atau selama perubahan yang berada dimain tetap berada di line sebelum branch. misal main line 1 - 30
 dan branch line 31 - Na , tidak di terobos maka tidak akan conflict\
 berarti jika dalam satu file ada lebih dari satu pengguna dan ada yang pull request lalu merge berarti\
 developer yang lain harus mengambil file nya dulu lalu memasukkan kodenya secara manual
+
+commit2
