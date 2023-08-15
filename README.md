@@ -21,6 +21,8 @@ kesimpulan dari test adalah meskipun branch dan main tidak diline yang sama teta
 
 ini dimungkinkan karena main berubah, sehingga segala perubahan yang ada di main akan memicu conflict\
 
+simulasi code review
+
 atau selama perubahan yang berada dimain tetap berada di line sebelum branch. misal main line 1 - 30
 dan branch line 31 - Na , tidak di terobos maka tidak akan conflict\
 berarti jika dalam satu file ada lebih dari satu pengguna dan ada yang pull request lalu merge berarti\
